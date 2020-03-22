@@ -1,0 +1,6 @@
+imię: Anton
+nazwisko: Vynohradov
+numer albumu: 233302
+e-mail: 233302@edu.p.lodz.pl
+tryb studiów: niestajonarne
+grupa: AiSR 2L1
